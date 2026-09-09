@@ -39,7 +39,7 @@ import module.core as core
 
 当前实现通过程序自带的 Python 环境加载原始核心模块，并在运行时替换部分检查逻辑后直接启动原程序。
 
-编译后替换原 CTF-NetA.exe 即可。
+原 CTF-NetA.exe 只是启动器，编译后替换即可。
 
 ## Disclaimer
 
