@@ -45,7 +45,7 @@ import module.core as core
 
 本项目仅用于 **Python 逆向工程技术研究与学习交流**。
 
-请仅对自己拥有、获得授权或法律允许分析的软件进行研究。项目与 CTF-NetA 原作者无关。
+项目与 CTF-NetA 原作者无关。
 
 ## License
 
