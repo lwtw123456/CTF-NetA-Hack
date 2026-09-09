@@ -1,6 +1,6 @@
 # CTF-NetA-Hack
 
-面向 **Python 应用逆向工程研究** 的 CTF-NetA 分析项目，实现 CTF-NetA 所有功能解锁。
+面向 **Python 应用逆向工程研究** 的 CTF-NetA 分析项目，实现 CTF-NetA 所有功能解锁。（实测 V2.12.01）
 
 CTF-NetA 是一个比较好用的 CTF 流量分析工具。虽然我已经很久不打 CTF 了，但最近在研究 Python 应用逆向工程，于是顺手把它作为了一个研究对象。
 
